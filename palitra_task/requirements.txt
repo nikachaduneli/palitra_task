@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-filter
+pillow
+djongo
+django-redis
+djangorestframework-simplejwt
+drf-yasg
